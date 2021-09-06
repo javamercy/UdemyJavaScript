@@ -1,0 +1,13 @@
+a {
+    color: white;
+}
+
+#loading {
+    margin-top: 1rem;
+    display: none;
+}
+
+img {
+    background-color: white;
+    border-radius: 40%;
+}

@@ -1,0 +1,8 @@
+[
+    { "firstName": "Emrecan", "lastName": "Kurşun", "age": 20, "retired": false },
+
+    { "firstName": "Engin", "lastName": "Demiroğ", "age": 36, "retired": false },
+
+    { "firstName": "Mustafa Murat", "lastName": "Coşkun", "age": 28, "retired": false }
+
+]
